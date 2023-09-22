@@ -24,7 +24,7 @@
 
 <h2>Demo</h2>
 
-<p>https://haiderghadi.github.io/Personal-Portfolio/</p>
+<p><a href="https://haiderghadi.github.io/Personal-Portfolio/" target="_blank"> https://haiderghadi.github.io/Personal-Portfolio/</p>
 
 
 <h2>Contact</h2>
