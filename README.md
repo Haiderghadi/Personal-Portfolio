@@ -24,12 +24,12 @@
 
 <h2>Demo</h2>
 
-<p>[Link to live portfolio website, if applicable]</p>
+<p>https://haiderghadi.github.io/Personal-Portfolio/</p>
 
 
 <h2>Contact</h2>
 
-<p>If you have any questions or would like to connect, please feel free to contact me at haiderghadi07your@email.com. You can also find me on <a href="https://www.linkedin.com/in/">LinkedIn</a> and <a href="https://twitter.com/haiderghadi">Twitter</a>.</p>
+<p>If you have any questions or would like to connect, please feel free to contact me at haiderghadi07your@email.com. You can also find me on <a href="https://www.linkedin.com/in/haiderghadi387221/">LinkedIn</a> and <a href="https://twitter.com/haiderghadi">Twitter</a>.</p>
 
 <h2>Acknowledgments</h2>
 
